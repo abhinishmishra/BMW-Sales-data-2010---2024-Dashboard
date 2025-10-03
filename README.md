@@ -6,3 +6,5 @@ Power BI
 
 
 <img width="846" height="454" alt="Screenshot 2025-10-02 223433" src="https://github.com/user-attachments/assets/79ffe045-0c59-4dac-b4ad-ba076f6379a4" />
+<img width="894" height="494" alt="Screenshot 2025-10-02 223513" src="https://github.com/user-attachments/assets/ba7b0510-38fb-4775-9a1d-802aaedf7f45" />
+<img width="789" height="510" alt="Screenshot 2025-10-02 223534" src="https://github.com/user-attachments/assets/9ba11ee2-4910-4a42-b4c4-6ae2aee3186c" />
